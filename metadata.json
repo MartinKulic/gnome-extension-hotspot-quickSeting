@@ -1,0 +1,8 @@
+{
+  "name": "Hotspot",
+  "description": "Adds button to turn on and off wifi hotspot",
+  "uuid": "hotspot-btn@custom",
+  "shell-version": [
+    "48"
+  ]
+}
